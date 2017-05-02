@@ -1,0 +1,4 @@
+name: testws
+main: io.github.leonardosnt.testws.TestPlugin
+version: 1.0.0
+author: leonardosnt
